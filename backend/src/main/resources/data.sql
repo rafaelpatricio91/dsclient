@@ -1,0 +1,10 @@
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('José Nogueira','14778985265',5000, NOW(),0);
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('Cristian Matos','12378985667',21000, NOW(),3);
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('Marta Magno','22378667265',9000, NOW(),1);
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('Julio Vaz','04171989267',4500, NOW(),0);
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('Arlete Meira','26558985095',30000, NOW(),0);
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('Marcia Mourao','45668911575',12000, NOW(),0);
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('Lucia Aleixo','56128980912',6000, NOW(),2);
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('Lucas Jesse','09328986665',15000, NOW(),4);
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('Ana Fontes','13308985163',3500, NOW(),1);
+INSERT INTO TB_CLIENT (name,cpf,income,birth_date,children) VALUES ('Inacio Fagundes','12370098265',21000, NOW(),0);
